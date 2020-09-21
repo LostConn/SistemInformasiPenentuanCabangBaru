@@ -1,0 +1,16 @@
+[20-Nov-2017 16:40:23] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (13 &quot;Permission denied&quot;) in /home/wayngrap/public_html/lib/lib_func.php on line 8
+[20-Nov-2017 16:40:23] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/wayngrap/public_html/lib/lib_func.php on line 9
+[20-Nov-2017 16:40:23] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/wayngrap/public_html/index.php on line 399
+[20-Nov-2017 16:40:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/wayngrap/public_html/index.php on line 400
+[20-Nov-2017 16:40:23] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/wayngrap/public_html/index.php on line 469
+[20-Nov-2017 16:40:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/wayngrap/public_html/index.php on line 470
+[20-Nov-2017 16:40:23] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/wayngrap/public_html/index.php on line 611
+[20-Nov-2017 16:40:23] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/wayngrap/public_html/index.php on line 612
+[30-Nov-2017 21:21:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2 &quot;No such file or directory&quot;) in /home/wayngrap/public_html/lib/lib_func.php on line 8
+[30-Nov-2017 21:21:13] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/wayngrap/public_html/lib/lib_func.php on line 9
+[30-Nov-2017 21:21:13] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/wayngrap/public_html/index.php on line 399
+[30-Nov-2017 21:21:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/wayngrap/public_html/index.php on line 400
+[30-Nov-2017 21:21:13] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/wayngrap/public_html/index.php on line 469
+[30-Nov-2017 21:21:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/wayngrap/public_html/index.php on line 470
+[30-Nov-2017 21:21:13] PHP Warning:  mysql_query(): supplied argument is not a valid MySQL-Link resource in /home/wayngrap/public_html/index.php on line 611
+[30-Nov-2017 21:21:13] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/wayngrap/public_html/index.php on line 612
